@@ -1,0 +1,12 @@
+Persona Vicente
+
+Nombre: Vicente
+Apellido: Luna
+Edad: 26
+ 
+Persona Etty
+
+Nombre: Etty
+Apellido: Martinez
+Edad: 24
+ 
